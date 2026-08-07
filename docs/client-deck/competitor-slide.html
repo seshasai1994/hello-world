@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Competitive Landscape & Our Positioning</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --panel: #172029;
+      --line: #2a3744;
+      --text: #e8eef4;
+      --muted: #93a4b5;
+      --accent: #3dbf9d;
+      --accent-dim: rgba(61, 191, 157, 0.14);
+      --warn: #e0b35a;
+      --white: #ffffff;
+    }
+
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      height: 100%;
+      background: radial-gradient(1200px 700px at 10% -10%, #1a3030 0%, var(--bg) 55%);
+      color: var(--text);
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .slide {
+      min-height: 100%;
+      padding: 36px 44px 28px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .header h1 {
+      margin: 0;
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .header p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1.35fr 0.95fr;
+      gap: 18px;
+      flex: 1;
+    }
+
+    .card {
+      background: linear-gradient(180deg, #1a2530, var(--panel));
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 16px 16px 14px;
+    }
+
+    .card h2 {
+      margin: 0 0 12px;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12.5px;
+    }
+
+    th, td {
+      text-align: left;
+      vertical-align: top;
+      padding: 9px 8px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    th {
+      color: var(--muted);
+      font-weight: 600;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    td strong { color: var(--white); font-weight: 650; }
+    .gap { color: var(--muted); }
+
+    .position {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .pill {
+      display: inline-block;
+      background: var(--accent-dim);
+      color: var(--accent);
+      border: 1px solid rgba(61, 191, 157, 0.35);
+      border-radius: 999px;
+      padding: 4px 10px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .position blockquote {
+      margin: 0;
+      padding: 12px 14px;
+      background: rgba(255,255,255,0.03);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 10px 10px 0;
+      font-size: 14px;
+      line-height: 1.45;
+      color: var(--white);
+    }
+
+    .metrics {
+      display: grid;
+      gap: 8px;
+    }
+
+    .metric {
+      display: grid;
+      grid-template-columns: 110px 1fr;
+      gap: 8px;
+      font-size: 12.5px;
+      padding: 8px 10px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: rgba(0,0,0,0.15);
+    }
+
+    .metric span:first-child {
+      color: var(--muted);
+      font-weight: 600;
+    }
+
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+      font-size: 12.5px;
+      color: var(--muted);
+    }
+
+    .footer strong { color: var(--warn); font-weight: 650; }
+
+    @media (max-width: 980px) {
+      .grid { grid-template-columns: 1fr; }
+      .slide { padding: 22px; }
+      .header h1 { font-size: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <section class="slide">
+    <header class="header">
+      <h1>Competitive Landscape &amp; Our Positioning</h1>
+      <p>Geth-powered on-chain trading platform — prototype presentation</p>
+    </header>
+
+    <div class="grid">
+      <div class="card">
+        <h2>5 Competitors &amp; Gaps</h2>
+        <table>
+          <thead>
+            <tr>
+              <th style="width:22%">Competitor</th>
+              <th style="width:32%">Strength</th>
+              <th>Gap vs our platform</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>DEX Screener</strong></td>
+              <td>Live DEX tape &amp; pair discovery</td>
+              <td class="gap">Weak portfolio/execution depth; not self-hosted Geth infra</td>
+            </tr>
+            <tr>
+              <td><strong>Nansen</strong></td>
+              <td>Labeled wallets &amp; smart-money intel</td>
+              <td class="gap">Closed SaaS; less trader execution cockpit; not client-owned stack</td>
+            </tr>
+            <tr>
+              <td><strong>Etherscan</strong></td>
+              <td>Trusted explorer of chain truth</td>
+              <td class="gap">Not a trading terminal; limited tape, alerts, PnL, flow desk</td>
+            </tr>
+            <tr>
+              <td><strong>CryptoQuant / Glassnode</strong></td>
+              <td>Macro on-chain flow analytics</td>
+              <td class="gap">Not real-time DEX microstructure or execution desk UX</td>
+            </tr>
+            <tr>
+              <td><strong>Chainalysis / TRM</strong></td>
+              <td>Enterprise compliance &amp; risk</td>
+              <td class="gap">Compliance-first, not trader workflows; high ACV</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="card position">
+        <h2>Our Prototype Positioning</h2>
+        <div><span class="pill">On-chain Trading Intelligence</span></div>
+        <blockquote>
+          Unified Geth-powered trading cockpit — live tape, liquidity, portfolio,
+          execution quality, and alerts — on architecture you can own and scale.
+        </blockquote>
+        <div class="metrics">
+          <div class="metric"><span>Wedge</span><span>Trader workflows first: tape, LP events, gas/execution, alerts</span></div>
+          <div class="metric"><span>Architecture</span><span>Geth → Indexers → Postgres / ClickHouse / Redis → Services → Dashboard</span></div>
+          <div class="metric"><span>Trust model</span><span>Sourced labels + evidenced warnings — no unverified scam/entity verdicts</span></div>
+          <div class="metric"><span>Now → Next</span><span>1 TB prototype → 8 TB MVP → ~20 TB self-hosted production</span></div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div>
+        <strong>Market gap:</strong>
+        explorers, DEX tapes, wallet intel, macro flows, and compliance tools are separate products.
+      </div>
+      <div>DEX Screener speed · Nansen context · Etherscan trust · desk-ready alerts</div>
+    </footer>
+  </section>
+</body>
+</html>
