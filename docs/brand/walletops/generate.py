@@ -1227,7 +1227,8 @@ def build_gallery(manifest) -> str:
             f'<span>pack: <a href="favicons/{m["slug"]}/">favicons/{m["slug"]}/</a></span></div></div>')
     lockups = "".join(f'<img src="{lk["file"]}" alt="{lk["line"]} {lk["theme"]} lockup">' for lk in manifest["lockups"])
     n = len(manifest["marks"])
-    snippet = html_snippet(lines["core"])
+    snippet = (html_snippet(lines["core"])
+               .replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><title>walletops.io brand kit</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="icon" href="recommended/core/favicon.svg" type="image/svg+xml">
