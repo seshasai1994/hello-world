@@ -1,0 +1,2313 @@
+{
+  "brand": "walletops.io",
+  "count": 100,
+  "lines": {
+    "core": {
+      "name": "WalletOps",
+      "tagline": "Wallet operations platform",
+      "primary": "#4F46E5",
+      "secondary": "#7C3AED",
+      "accent": "#22D3EE",
+      "domain": "walletops.io"
+    },
+    "analytics": {
+      "name": "WalletOps Analytics",
+      "tagline": "On-chain wallet analytics",
+      "primary": "#0284C7",
+      "secondary": "#06B6D4",
+      "accent": "#FBBF24",
+      "domain": "analytics.walletops.io"
+    },
+    "shield": {
+      "name": "Wallet Shield",
+      "tagline": "Wallet security and risk monitoring",
+      "primary": "#059669",
+      "secondary": "#10B981",
+      "accent": "#38BDF8",
+      "domain": "shield.walletops.io"
+    },
+    "intelligence": {
+      "name": "Wallet Intelligence",
+      "tagline": "Wallet labeling, scoring and insight",
+      "primary": "#7C3AED",
+      "secondary": "#C026D3",
+      "accent": "#F472B6",
+      "domain": "intel.walletops.io"
+    },
+    "specialist": {
+      "name": "Wallet Specialist",
+      "tagline": "Expert wallet services and support",
+      "primary": "#EA580C",
+      "secondary": "#F59E0B",
+      "accent": "#FDE68A",
+      "domain": "specialist.walletops.io"
+    }
+  },
+  "styles": {
+    "solid": "Flat primary colour, white counters, transparent background.",
+    "gradient": "Primary-to-secondary gradient, white counters, transparent background.",
+    "outline": "Stroke-only version for monochrome, print, and watermarks.",
+    "tile": "White mark on a rounded gradient tile. Use for app icons and favicons."
+  },
+  "hero": {
+    "core": "core-w-monogram",
+    "analytics": "analytics-w-bars",
+    "shield": "shield-check",
+    "intelligence": "intel-neural-w",
+    "specialist": "spec-seal"
+  },
+  "marks": [
+    {
+      "slug": "core-wallet-classic",
+      "line": "core",
+      "title": "Classic Wallet",
+      "desc": "Rounded wallet with a peeking card and clasp. The master product mark.",
+      "files": {
+        "solid": "logos/core/core-wallet-classic--solid.svg",
+        "gradient": "logos/core/core-wallet-classic--gradient.svg",
+        "outline": "logos/core/core-wallet-classic--outline.svg",
+        "tile": "logos/core/core-wallet-classic--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-wallet-classic/favicon.svg",
+        "16": "favicons/core-wallet-classic/favicon-16x16.png",
+        "32": "favicons/core-wallet-classic/favicon-32x32.png",
+        "48": "favicons/core-wallet-classic/favicon-48x48.png",
+        "180": "favicons/core-wallet-classic/apple-touch-icon.png",
+        "192": "favicons/core-wallet-classic/android-chrome-192x192.png",
+        "512": "favicons/core-wallet-classic/android-chrome-512x512.png",
+        "ico": "favicons/core-wallet-classic/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-wallet-pulse",
+      "line": "core",
+      "title": "Ops Pulse",
+      "desc": "Live operations heartbeat running through the wallet.",
+      "files": {
+        "solid": "logos/core/core-wallet-pulse--solid.svg",
+        "gradient": "logos/core/core-wallet-pulse--gradient.svg",
+        "outline": "logos/core/core-wallet-pulse--outline.svg",
+        "tile": "logos/core/core-wallet-pulse--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-wallet-pulse/favicon.svg",
+        "16": "favicons/core-wallet-pulse/favicon-16x16.png",
+        "32": "favicons/core-wallet-pulse/favicon-32x32.png",
+        "48": "favicons/core-wallet-pulse/favicon-48x48.png",
+        "180": "favicons/core-wallet-pulse/apple-touch-icon.png",
+        "192": "favicons/core-wallet-pulse/android-chrome-192x192.png",
+        "512": "favicons/core-wallet-pulse/android-chrome-512x512.png",
+        "ico": "favicons/core-wallet-pulse/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-w-circle",
+      "line": "core",
+      "title": "W Coin",
+      "desc": "Coin disc with a cut-out W. Works at 16px as the site favicon.",
+      "files": {
+        "solid": "logos/core/core-w-circle--solid.svg",
+        "gradient": "logos/core/core-w-circle--gradient.svg",
+        "outline": "logos/core/core-w-circle--outline.svg",
+        "tile": "logos/core/core-w-circle--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-w-circle/favicon.svg",
+        "16": "favicons/core-w-circle/favicon-16x16.png",
+        "32": "favicons/core-w-circle/favicon-32x32.png",
+        "48": "favicons/core-w-circle/favicon-48x48.png",
+        "180": "favicons/core-w-circle/apple-touch-icon.png",
+        "192": "favicons/core-w-circle/android-chrome-192x192.png",
+        "512": "favicons/core-w-circle/android-chrome-512x512.png",
+        "ico": "favicons/core-w-circle/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-w-monogram",
+      "line": "core",
+      "title": "W Monogram",
+      "desc": "Bold W with an accent ops node. Recommended WalletOps wordmark companion.",
+      "files": {
+        "solid": "logos/core/core-w-monogram--solid.svg",
+        "gradient": "logos/core/core-w-monogram--gradient.svg",
+        "outline": "logos/core/core-w-monogram--outline.svg",
+        "tile": "logos/core/core-w-monogram--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-w-monogram/favicon.svg",
+        "16": "favicons/core-w-monogram/favicon-16x16.png",
+        "32": "favicons/core-w-monogram/favicon-32x32.png",
+        "48": "favicons/core-w-monogram/favicon-48x48.png",
+        "180": "favicons/core-w-monogram/apple-touch-icon.png",
+        "192": "favicons/core-w-monogram/android-chrome-192x192.png",
+        "512": "favicons/core-w-monogram/android-chrome-512x512.png",
+        "ico": "favicons/core-w-monogram/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-wo-orbit",
+      "line": "core",
+      "title": "WO Orbit",
+      "desc": "W monogram with an orbiting O for walletops.io.",
+      "files": {
+        "solid": "logos/core/core-wo-orbit--solid.svg",
+        "gradient": "logos/core/core-wo-orbit--gradient.svg",
+        "outline": "logos/core/core-wo-orbit--outline.svg",
+        "tile": "logos/core/core-wo-orbit--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-wo-orbit/favicon.svg",
+        "16": "favicons/core-wo-orbit/favicon-16x16.png",
+        "32": "favicons/core-wo-orbit/favicon-32x32.png",
+        "48": "favicons/core-wo-orbit/favicon-48x48.png",
+        "180": "favicons/core-wo-orbit/apple-touch-icon.png",
+        "192": "favicons/core-wo-orbit/android-chrome-192x192.png",
+        "512": "favicons/core-wo-orbit/android-chrome-512x512.png",
+        "ico": "favicons/core-wo-orbit/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-wallet-gear",
+      "line": "core",
+      "title": "Wallet Gear",
+      "desc": "Operations gear badged onto the wallet.",
+      "files": {
+        "solid": "logos/core/core-wallet-gear--solid.svg",
+        "gradient": "logos/core/core-wallet-gear--gradient.svg",
+        "outline": "logos/core/core-wallet-gear--outline.svg",
+        "tile": "logos/core/core-wallet-gear--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-wallet-gear/favicon.svg",
+        "16": "favicons/core-wallet-gear/favicon-16x16.png",
+        "32": "favicons/core-wallet-gear/favicon-32x32.png",
+        "48": "favicons/core-wallet-gear/favicon-48x48.png",
+        "180": "favicons/core-wallet-gear/apple-touch-icon.png",
+        "192": "favicons/core-wallet-gear/android-chrome-192x192.png",
+        "512": "favicons/core-wallet-gear/android-chrome-512x512.png",
+        "ico": "favicons/core-wallet-gear/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-hex-wallet",
+      "line": "core",
+      "title": "Hex Wallet",
+      "desc": "Chain-style hex containing a wallet outline.",
+      "files": {
+        "solid": "logos/core/core-hex-wallet--solid.svg",
+        "gradient": "logos/core/core-hex-wallet--gradient.svg",
+        "outline": "logos/core/core-hex-wallet--outline.svg",
+        "tile": "logos/core/core-hex-wallet--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-hex-wallet/favicon.svg",
+        "16": "favicons/core-hex-wallet/favicon-16x16.png",
+        "32": "favicons/core-hex-wallet/favicon-32x32.png",
+        "48": "favicons/core-hex-wallet/favicon-48x48.png",
+        "180": "favicons/core-hex-wallet/apple-touch-icon.png",
+        "192": "favicons/core-hex-wallet/android-chrome-192x192.png",
+        "512": "favicons/core-hex-wallet/android-chrome-512x512.png",
+        "ico": "favicons/core-hex-wallet/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-stack",
+      "line": "core",
+      "title": "Card Stack",
+      "desc": "Layered cards for multi-wallet operations.",
+      "files": {
+        "solid": "logos/core/core-stack--solid.svg",
+        "gradient": "logos/core/core-stack--gradient.svg",
+        "outline": "logos/core/core-stack--outline.svg",
+        "tile": "logos/core/core-stack--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-stack/favicon.svg",
+        "16": "favicons/core-stack/favicon-16x16.png",
+        "32": "favicons/core-stack/favicon-32x32.png",
+        "48": "favicons/core-stack/favicon-48x48.png",
+        "180": "favicons/core-stack/apple-touch-icon.png",
+        "192": "favicons/core-stack/android-chrome-192x192.png",
+        "512": "favicons/core-stack/android-chrome-512x512.png",
+        "ico": "favicons/core-stack/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-terminal",
+      "line": "core",
+      "title": "Ops Terminal",
+      "desc": "Wallet as a command prompt for the ops desk.",
+      "files": {
+        "solid": "logos/core/core-terminal--solid.svg",
+        "gradient": "logos/core/core-terminal--gradient.svg",
+        "outline": "logos/core/core-terminal--outline.svg",
+        "tile": "logos/core/core-terminal--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-terminal/favicon.svg",
+        "16": "favicons/core-terminal/favicon-16x16.png",
+        "32": "favicons/core-terminal/favicon-32x32.png",
+        "48": "favicons/core-terminal/favicon-48x48.png",
+        "180": "favicons/core-terminal/apple-touch-icon.png",
+        "192": "favicons/core-terminal/android-chrome-192x192.png",
+        "512": "favicons/core-terminal/android-chrome-512x512.png",
+        "ico": "favicons/core-terminal/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-wallet-bolt",
+      "line": "core",
+      "title": "Ops Bolt",
+      "desc": "Speed of execution. Lightning cut through the wallet.",
+      "files": {
+        "solid": "logos/core/core-wallet-bolt--solid.svg",
+        "gradient": "logos/core/core-wallet-bolt--gradient.svg",
+        "outline": "logos/core/core-wallet-bolt--outline.svg",
+        "tile": "logos/core/core-wallet-bolt--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-wallet-bolt/favicon.svg",
+        "16": "favicons/core-wallet-bolt/favicon-16x16.png",
+        "32": "favicons/core-wallet-bolt/favicon-32x32.png",
+        "48": "favicons/core-wallet-bolt/favicon-48x48.png",
+        "180": "favicons/core-wallet-bolt/apple-touch-icon.png",
+        "192": "favicons/core-wallet-bolt/android-chrome-192x192.png",
+        "512": "favicons/core-wallet-bolt/android-chrome-512x512.png",
+        "ico": "favicons/core-wallet-bolt/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-wallet-flow",
+      "line": "core",
+      "title": "Ops Flow",
+      "desc": "Circular swap arrows around a wallet core.",
+      "files": {
+        "solid": "logos/core/core-wallet-flow--solid.svg",
+        "gradient": "logos/core/core-wallet-flow--gradient.svg",
+        "outline": "logos/core/core-wallet-flow--outline.svg",
+        "tile": "logos/core/core-wallet-flow--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-wallet-flow/favicon.svg",
+        "16": "favicons/core-wallet-flow/favicon-16x16.png",
+        "32": "favicons/core-wallet-flow/favicon-32x32.png",
+        "48": "favicons/core-wallet-flow/favicon-48x48.png",
+        "180": "favicons/core-wallet-flow/apple-touch-icon.png",
+        "192": "favicons/core-wallet-flow/android-chrome-192x192.png",
+        "512": "favicons/core-wallet-flow/android-chrome-512x512.png",
+        "ico": "favicons/core-wallet-flow/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-key-wallet",
+      "line": "core",
+      "title": "Wallet Key",
+      "desc": "Access and control. Key cut into the wallet body.",
+      "files": {
+        "solid": "logos/core/core-key-wallet--solid.svg",
+        "gradient": "logos/core/core-key-wallet--gradient.svg",
+        "outline": "logos/core/core-key-wallet--outline.svg",
+        "tile": "logos/core/core-key-wallet--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-key-wallet/favicon.svg",
+        "16": "favicons/core-key-wallet/favicon-16x16.png",
+        "32": "favicons/core-key-wallet/favicon-32x32.png",
+        "48": "favicons/core-key-wallet/favicon-48x48.png",
+        "180": "favicons/core-key-wallet/apple-touch-icon.png",
+        "192": "favicons/core-key-wallet/android-chrome-192x192.png",
+        "512": "favicons/core-key-wallet/android-chrome-512x512.png",
+        "ico": "favicons/core-key-wallet/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-wallet-grid",
+      "line": "core",
+      "title": "Ops Grid",
+      "desc": "Four-cell dashboard grid inside the wallet.",
+      "files": {
+        "solid": "logos/core/core-wallet-grid--solid.svg",
+        "gradient": "logos/core/core-wallet-grid--gradient.svg",
+        "outline": "logos/core/core-wallet-grid--outline.svg",
+        "tile": "logos/core/core-wallet-grid--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-wallet-grid/favicon.svg",
+        "16": "favicons/core-wallet-grid/favicon-16x16.png",
+        "32": "favicons/core-wallet-grid/favicon-32x32.png",
+        "48": "favicons/core-wallet-grid/favicon-48x48.png",
+        "180": "favicons/core-wallet-grid/apple-touch-icon.png",
+        "192": "favicons/core-wallet-grid/android-chrome-192x192.png",
+        "512": "favicons/core-wallet-grid/android-chrome-512x512.png",
+        "ico": "favicons/core-wallet-grid/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-orbit",
+      "line": "core",
+      "title": "Orbit Wallet",
+      "desc": "Wallet at the centre of an operations orbit.",
+      "files": {
+        "solid": "logos/core/core-orbit--solid.svg",
+        "gradient": "logos/core/core-orbit--gradient.svg",
+        "outline": "logos/core/core-orbit--outline.svg",
+        "tile": "logos/core/core-orbit--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-orbit/favicon.svg",
+        "16": "favicons/core-orbit/favicon-16x16.png",
+        "32": "favicons/core-orbit/favicon-32x32.png",
+        "48": "favicons/core-orbit/favicon-48x48.png",
+        "180": "favicons/core-orbit/apple-touch-icon.png",
+        "192": "favicons/core-orbit/android-chrome-192x192.png",
+        "512": "favicons/core-orbit/android-chrome-512x512.png",
+        "ico": "favicons/core-orbit/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-layers",
+      "line": "core",
+      "title": "Ops Layers",
+      "desc": "Stacked service layers under a wallet lid.",
+      "files": {
+        "solid": "logos/core/core-layers--solid.svg",
+        "gradient": "logos/core/core-layers--gradient.svg",
+        "outline": "logos/core/core-layers--outline.svg",
+        "tile": "logos/core/core-layers--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-layers/favicon.svg",
+        "16": "favicons/core-layers/favicon-16x16.png",
+        "32": "favicons/core-layers/favicon-32x32.png",
+        "48": "favicons/core-layers/favicon-48x48.png",
+        "180": "favicons/core-layers/apple-touch-icon.png",
+        "192": "favicons/core-layers/android-chrome-192x192.png",
+        "512": "favicons/core-layers/android-chrome-512x512.png",
+        "ico": "favicons/core-layers/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-hex-w",
+      "line": "core",
+      "title": "Hex W",
+      "desc": "W monogram in a hexagonal chain badge.",
+      "files": {
+        "solid": "logos/core/core-hex-w--solid.svg",
+        "gradient": "logos/core/core-hex-w--gradient.svg",
+        "outline": "logos/core/core-hex-w--outline.svg",
+        "tile": "logos/core/core-hex-w--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-hex-w/favicon.svg",
+        "16": "favicons/core-hex-w/favicon-16x16.png",
+        "32": "favicons/core-hex-w/favicon-32x32.png",
+        "48": "favicons/core-hex-w/favicon-48x48.png",
+        "180": "favicons/core-hex-w/apple-touch-icon.png",
+        "192": "favicons/core-hex-w/android-chrome-192x192.png",
+        "512": "favicons/core-hex-w/android-chrome-512x512.png",
+        "ico": "favicons/core-hex-w/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-wallet-plus",
+      "line": "core",
+      "title": "Add Wallet",
+      "desc": "Create and onboard wallets. Plus cut-out.",
+      "files": {
+        "solid": "logos/core/core-wallet-plus--solid.svg",
+        "gradient": "logos/core/core-wallet-plus--gradient.svg",
+        "outline": "logos/core/core-wallet-plus--outline.svg",
+        "tile": "logos/core/core-wallet-plus--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-wallet-plus/favicon.svg",
+        "16": "favicons/core-wallet-plus/favicon-16x16.png",
+        "32": "favicons/core-wallet-plus/favicon-32x32.png",
+        "48": "favicons/core-wallet-plus/favicon-48x48.png",
+        "180": "favicons/core-wallet-plus/apple-touch-icon.png",
+        "192": "favicons/core-wallet-plus/android-chrome-192x192.png",
+        "512": "favicons/core-wallet-plus/android-chrome-512x512.png",
+        "ico": "favicons/core-wallet-plus/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-fold",
+      "line": "core",
+      "title": "Folded Card",
+      "desc": "A single folded payment card. Minimal mark.",
+      "files": {
+        "solid": "logos/core/core-fold--solid.svg",
+        "gradient": "logos/core/core-fold--gradient.svg",
+        "outline": "logos/core/core-fold--outline.svg",
+        "tile": "logos/core/core-fold--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-fold/favicon.svg",
+        "16": "favicons/core-fold/favicon-16x16.png",
+        "32": "favicons/core-fold/favicon-32x32.png",
+        "48": "favicons/core-fold/favicon-48x48.png",
+        "180": "favicons/core-fold/apple-touch-icon.png",
+        "192": "favicons/core-fold/android-chrome-192x192.png",
+        "512": "favicons/core-fold/android-chrome-512x512.png",
+        "ico": "favicons/core-fold/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-infinity",
+      "line": "core",
+      "title": "Ops Loop",
+      "desc": "Continuous operations. Infinity loop with an accent node.",
+      "files": {
+        "solid": "logos/core/core-infinity--solid.svg",
+        "gradient": "logos/core/core-infinity--gradient.svg",
+        "outline": "logos/core/core-infinity--outline.svg",
+        "tile": "logos/core/core-infinity--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-infinity/favicon.svg",
+        "16": "favicons/core-infinity/favicon-16x16.png",
+        "32": "favicons/core-infinity/favicon-32x32.png",
+        "48": "favicons/core-infinity/favicon-48x48.png",
+        "180": "favicons/core-infinity/apple-touch-icon.png",
+        "192": "favicons/core-infinity/android-chrome-192x192.png",
+        "512": "favicons/core-infinity/android-chrome-512x512.png",
+        "ico": "favicons/core-infinity/favicon.ico"
+      }
+    },
+    {
+      "slug": "core-dots",
+      "line": "core",
+      "title": "Three Dots",
+      "desc": "Wallet with an ops overflow menu. Simple at every size.",
+      "files": {
+        "solid": "logos/core/core-dots--solid.svg",
+        "gradient": "logos/core/core-dots--gradient.svg",
+        "outline": "logos/core/core-dots--outline.svg",
+        "tile": "logos/core/core-dots--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/core-dots/favicon.svg",
+        "16": "favicons/core-dots/favicon-16x16.png",
+        "32": "favicons/core-dots/favicon-32x32.png",
+        "48": "favicons/core-dots/favicon-48x48.png",
+        "180": "favicons/core-dots/apple-touch-icon.png",
+        "192": "favicons/core-dots/android-chrome-192x192.png",
+        "512": "favicons/core-dots/android-chrome-512x512.png",
+        "ico": "favicons/core-dots/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-bars-wallet",
+      "line": "analytics",
+      "title": "Bars in Wallet",
+      "desc": "Rising bars cut into the wallet. Core analytics mark.",
+      "files": {
+        "solid": "logos/analytics/analytics-bars-wallet--solid.svg",
+        "gradient": "logos/analytics/analytics-bars-wallet--gradient.svg",
+        "outline": "logos/analytics/analytics-bars-wallet--outline.svg",
+        "tile": "logos/analytics/analytics-bars-wallet--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-bars-wallet/favicon.svg",
+        "16": "favicons/analytics-bars-wallet/favicon-16x16.png",
+        "32": "favicons/analytics-bars-wallet/favicon-32x32.png",
+        "48": "favicons/analytics-bars-wallet/favicon-48x48.png",
+        "180": "favicons/analytics-bars-wallet/apple-touch-icon.png",
+        "192": "favicons/analytics-bars-wallet/android-chrome-192x192.png",
+        "512": "favicons/analytics-bars-wallet/android-chrome-512x512.png",
+        "ico": "favicons/analytics-bars-wallet/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-trend-wallet",
+      "line": "analytics",
+      "title": "Trend Line",
+      "desc": "Up-and-to-the-right cut into the wallet, accent arrow head.",
+      "files": {
+        "solid": "logos/analytics/analytics-trend-wallet--solid.svg",
+        "gradient": "logos/analytics/analytics-trend-wallet--gradient.svg",
+        "outline": "logos/analytics/analytics-trend-wallet--outline.svg",
+        "tile": "logos/analytics/analytics-trend-wallet--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-trend-wallet/favicon.svg",
+        "16": "favicons/analytics-trend-wallet/favicon-16x16.png",
+        "32": "favicons/analytics-trend-wallet/favicon-32x32.png",
+        "48": "favicons/analytics-trend-wallet/favicon-48x48.png",
+        "180": "favicons/analytics-trend-wallet/apple-touch-icon.png",
+        "192": "favicons/analytics-trend-wallet/android-chrome-192x192.png",
+        "512": "favicons/analytics-trend-wallet/android-chrome-512x512.png",
+        "ico": "favicons/analytics-trend-wallet/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-donut-wallet",
+      "line": "analytics",
+      "title": "Donut Wallet",
+      "desc": "Allocation donut with an accent share.",
+      "files": {
+        "solid": "logos/analytics/analytics-donut-wallet--solid.svg",
+        "gradient": "logos/analytics/analytics-donut-wallet--gradient.svg",
+        "outline": "logos/analytics/analytics-donut-wallet--outline.svg",
+        "tile": "logos/analytics/analytics-donut-wallet--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-donut-wallet/favicon.svg",
+        "16": "favicons/analytics-donut-wallet/favicon-16x16.png",
+        "32": "favicons/analytics-donut-wallet/favicon-32x32.png",
+        "48": "favicons/analytics-donut-wallet/favicon-48x48.png",
+        "180": "favicons/analytics-donut-wallet/apple-touch-icon.png",
+        "192": "favicons/analytics-donut-wallet/android-chrome-192x192.png",
+        "512": "favicons/analytics-donut-wallet/android-chrome-512x512.png",
+        "ico": "favicons/analytics-donut-wallet/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-w-bars",
+      "line": "analytics",
+      "title": "W Bar Chart",
+      "desc": "Five bars whose tops trace a W. Recommended Analytics favicon.",
+      "files": {
+        "solid": "logos/analytics/analytics-w-bars--solid.svg",
+        "gradient": "logos/analytics/analytics-w-bars--gradient.svg",
+        "outline": "logos/analytics/analytics-w-bars--outline.svg",
+        "tile": "logos/analytics/analytics-w-bars--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-w-bars/favicon.svg",
+        "16": "favicons/analytics-w-bars/favicon-16x16.png",
+        "32": "favicons/analytics-w-bars/favicon-32x32.png",
+        "48": "favicons/analytics-w-bars/favicon-48x48.png",
+        "180": "favicons/analytics-w-bars/apple-touch-icon.png",
+        "192": "favicons/analytics-w-bars/android-chrome-192x192.png",
+        "512": "favicons/analytics-w-bars/android-chrome-512x512.png",
+        "ico": "favicons/analytics-w-bars/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-candles",
+      "line": "analytics",
+      "title": "Candlesticks",
+      "desc": "Three candlesticks cut into the wallet.",
+      "files": {
+        "solid": "logos/analytics/analytics-candles--solid.svg",
+        "gradient": "logos/analytics/analytics-candles--gradient.svg",
+        "outline": "logos/analytics/analytics-candles--outline.svg",
+        "tile": "logos/analytics/analytics-candles--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-candles/favicon.svg",
+        "16": "favicons/analytics-candles/favicon-16x16.png",
+        "32": "favicons/analytics-candles/favicon-32x32.png",
+        "48": "favicons/analytics-candles/favicon-48x48.png",
+        "180": "favicons/analytics-candles/apple-touch-icon.png",
+        "192": "favicons/analytics-candles/android-chrome-192x192.png",
+        "512": "favicons/analytics-candles/android-chrome-512x512.png",
+        "ico": "favicons/analytics-candles/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-sparkline",
+      "line": "analytics",
+      "title": "Sparkline Card",
+      "desc": "Compact card with a sparkline and accent end-point.",
+      "files": {
+        "solid": "logos/analytics/analytics-sparkline--solid.svg",
+        "gradient": "logos/analytics/analytics-sparkline--gradient.svg",
+        "outline": "logos/analytics/analytics-sparkline--outline.svg",
+        "tile": "logos/analytics/analytics-sparkline--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-sparkline/favicon.svg",
+        "16": "favicons/analytics-sparkline/favicon-16x16.png",
+        "32": "favicons/analytics-sparkline/favicon-32x32.png",
+        "48": "favicons/analytics-sparkline/favicon-48x48.png",
+        "180": "favicons/analytics-sparkline/apple-touch-icon.png",
+        "192": "favicons/analytics-sparkline/android-chrome-192x192.png",
+        "512": "favicons/analytics-sparkline/android-chrome-512x512.png",
+        "ico": "favicons/analytics-sparkline/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-gauge",
+      "line": "analytics",
+      "title": "Performance Gauge",
+      "desc": "Half-gauge with an accent needle over a wallet.",
+      "files": {
+        "solid": "logos/analytics/analytics-gauge--solid.svg",
+        "gradient": "logos/analytics/analytics-gauge--gradient.svg",
+        "outline": "logos/analytics/analytics-gauge--outline.svg",
+        "tile": "logos/analytics/analytics-gauge--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-gauge/favicon.svg",
+        "16": "favicons/analytics-gauge/favicon-16x16.png",
+        "32": "favicons/analytics-gauge/favicon-32x32.png",
+        "48": "favicons/analytics-gauge/favicon-48x48.png",
+        "180": "favicons/analytics-gauge/apple-touch-icon.png",
+        "192": "favicons/analytics-gauge/android-chrome-192x192.png",
+        "512": "favicons/analytics-gauge/android-chrome-512x512.png",
+        "ico": "favicons/analytics-gauge/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-pie",
+      "line": "analytics",
+      "title": "Pie Share",
+      "desc": "Portfolio share pie with an accent slice.",
+      "files": {
+        "solid": "logos/analytics/analytics-pie--solid.svg",
+        "gradient": "logos/analytics/analytics-pie--gradient.svg",
+        "outline": "logos/analytics/analytics-pie--outline.svg",
+        "tile": "logos/analytics/analytics-pie--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-pie/favicon.svg",
+        "16": "favicons/analytics-pie/favicon-16x16.png",
+        "32": "favicons/analytics-pie/favicon-32x32.png",
+        "48": "favicons/analytics-pie/favicon-48x48.png",
+        "180": "favicons/analytics-pie/apple-touch-icon.png",
+        "192": "favicons/analytics-pie/android-chrome-192x192.png",
+        "512": "favicons/analytics-pie/android-chrome-512x512.png",
+        "ico": "favicons/analytics-pie/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-area",
+      "line": "analytics",
+      "title": "Area Chart",
+      "desc": "Filled area chart inside the wallet.",
+      "files": {
+        "solid": "logos/analytics/analytics-area--solid.svg",
+        "gradient": "logos/analytics/analytics-area--gradient.svg",
+        "outline": "logos/analytics/analytics-area--outline.svg",
+        "tile": "logos/analytics/analytics-area--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-area/favicon.svg",
+        "16": "favicons/analytics-area/favicon-16x16.png",
+        "32": "favicons/analytics-area/favicon-32x32.png",
+        "48": "favicons/analytics-area/favicon-48x48.png",
+        "180": "favicons/analytics-area/apple-touch-icon.png",
+        "192": "favicons/analytics-area/android-chrome-192x192.png",
+        "512": "favicons/analytics-area/android-chrome-512x512.png",
+        "ico": "favicons/analytics-area/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-kpi",
+      "line": "analytics",
+      "title": "KPI Up",
+      "desc": "Big up-metric. Bar and arrow for daily PnL.",
+      "files": {
+        "solid": "logos/analytics/analytics-kpi--solid.svg",
+        "gradient": "logos/analytics/analytics-kpi--gradient.svg",
+        "outline": "logos/analytics/analytics-kpi--outline.svg",
+        "tile": "logos/analytics/analytics-kpi--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-kpi/favicon.svg",
+        "16": "favicons/analytics-kpi/favicon-16x16.png",
+        "32": "favicons/analytics-kpi/favicon-32x32.png",
+        "48": "favicons/analytics-kpi/favicon-48x48.png",
+        "180": "favicons/analytics-kpi/apple-touch-icon.png",
+        "192": "favicons/analytics-kpi/android-chrome-192x192.png",
+        "512": "favicons/analytics-kpi/android-chrome-512x512.png",
+        "ico": "favicons/analytics-kpi/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-histogram",
+      "line": "analytics",
+      "title": "Histogram",
+      "desc": "Distribution histogram across the wallet floor.",
+      "files": {
+        "solid": "logos/analytics/analytics-histogram--solid.svg",
+        "gradient": "logos/analytics/analytics-histogram--gradient.svg",
+        "outline": "logos/analytics/analytics-histogram--outline.svg",
+        "tile": "logos/analytics/analytics-histogram--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-histogram/favicon.svg",
+        "16": "favicons/analytics-histogram/favicon-16x16.png",
+        "32": "favicons/analytics-histogram/favicon-32x32.png",
+        "48": "favicons/analytics-histogram/favicon-48x48.png",
+        "180": "favicons/analytics-histogram/apple-touch-icon.png",
+        "192": "favicons/analytics-histogram/android-chrome-192x192.png",
+        "512": "favicons/analytics-histogram/android-chrome-512x512.png",
+        "ico": "favicons/analytics-histogram/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-funnel",
+      "line": "analytics",
+      "title": "Funnel",
+      "desc": "Conversion funnel of three decreasing stages.",
+      "files": {
+        "solid": "logos/analytics/analytics-funnel--solid.svg",
+        "gradient": "logos/analytics/analytics-funnel--gradient.svg",
+        "outline": "logos/analytics/analytics-funnel--outline.svg",
+        "tile": "logos/analytics/analytics-funnel--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-funnel/favicon.svg",
+        "16": "favicons/analytics-funnel/favicon-16x16.png",
+        "32": "favicons/analytics-funnel/favicon-32x32.png",
+        "48": "favicons/analytics-funnel/favicon-48x48.png",
+        "180": "favicons/analytics-funnel/apple-touch-icon.png",
+        "192": "favicons/analytics-funnel/android-chrome-192x192.png",
+        "512": "favicons/analytics-funnel/android-chrome-512x512.png",
+        "ico": "favicons/analytics-funnel/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-heatmap",
+      "line": "analytics",
+      "title": "Heatmap",
+      "desc": "3x3 intensity grid. Wallet clustering view.",
+      "files": {
+        "solid": "logos/analytics/analytics-heatmap--solid.svg",
+        "gradient": "logos/analytics/analytics-heatmap--gradient.svg",
+        "outline": "logos/analytics/analytics-heatmap--outline.svg",
+        "tile": "logos/analytics/analytics-heatmap--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-heatmap/favicon.svg",
+        "16": "favicons/analytics-heatmap/favicon-16x16.png",
+        "32": "favicons/analytics-heatmap/favicon-32x32.png",
+        "48": "favicons/analytics-heatmap/favicon-48x48.png",
+        "180": "favicons/analytics-heatmap/apple-touch-icon.png",
+        "192": "favicons/analytics-heatmap/android-chrome-192x192.png",
+        "512": "favicons/analytics-heatmap/android-chrome-512x512.png",
+        "ico": "favicons/analytics-heatmap/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-scatter",
+      "line": "analytics",
+      "title": "Scatter",
+      "desc": "Scatter plot on a card. Correlation at a glance.",
+      "files": {
+        "solid": "logos/analytics/analytics-scatter--solid.svg",
+        "gradient": "logos/analytics/analytics-scatter--gradient.svg",
+        "outline": "logos/analytics/analytics-scatter--outline.svg",
+        "tile": "logos/analytics/analytics-scatter--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-scatter/favicon.svg",
+        "16": "favicons/analytics-scatter/favicon-16x16.png",
+        "32": "favicons/analytics-scatter/favicon-32x32.png",
+        "48": "favicons/analytics-scatter/favicon-48x48.png",
+        "180": "favicons/analytics-scatter/apple-touch-icon.png",
+        "192": "favicons/analytics-scatter/android-chrome-192x192.png",
+        "512": "favicons/analytics-scatter/android-chrome-512x512.png",
+        "ico": "favicons/analytics-scatter/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-percent",
+      "line": "analytics",
+      "title": "Percent Move",
+      "desc": "Circular percent with an accent delta.",
+      "files": {
+        "solid": "logos/analytics/analytics-percent--solid.svg",
+        "gradient": "logos/analytics/analytics-percent--gradient.svg",
+        "outline": "logos/analytics/analytics-percent--outline.svg",
+        "tile": "logos/analytics/analytics-percent--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-percent/favicon.svg",
+        "16": "favicons/analytics-percent/favicon-16x16.png",
+        "32": "favicons/analytics-percent/favicon-32x32.png",
+        "48": "favicons/analytics-percent/favicon-48x48.png",
+        "180": "favicons/analytics-percent/apple-touch-icon.png",
+        "192": "favicons/analytics-percent/android-chrome-192x192.png",
+        "512": "favicons/analytics-percent/android-chrome-512x512.png",
+        "ico": "favicons/analytics-percent/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-table",
+      "line": "analytics",
+      "title": "Table Grid",
+      "desc": "Tabular wallet data. Rows and columns cut through.",
+      "files": {
+        "solid": "logos/analytics/analytics-table--solid.svg",
+        "gradient": "logos/analytics/analytics-table--gradient.svg",
+        "outline": "logos/analytics/analytics-table--outline.svg",
+        "tile": "logos/analytics/analytics-table--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-table/favicon.svg",
+        "16": "favicons/analytics-table/favicon-16x16.png",
+        "32": "favicons/analytics-table/favicon-32x32.png",
+        "48": "favicons/analytics-table/favicon-48x48.png",
+        "180": "favicons/analytics-table/apple-touch-icon.png",
+        "192": "favicons/analytics-table/android-chrome-192x192.png",
+        "512": "favicons/analytics-table/android-chrome-512x512.png",
+        "ico": "favicons/analytics-table/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-waterfall",
+      "line": "analytics",
+      "title": "Waterfall",
+      "desc": "Waterfall of stepped PnL bars.",
+      "files": {
+        "solid": "logos/analytics/analytics-waterfall--solid.svg",
+        "gradient": "logos/analytics/analytics-waterfall--gradient.svg",
+        "outline": "logos/analytics/analytics-waterfall--outline.svg",
+        "tile": "logos/analytics/analytics-waterfall--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-waterfall/favicon.svg",
+        "16": "favicons/analytics-waterfall/favicon-16x16.png",
+        "32": "favicons/analytics-waterfall/favicon-32x32.png",
+        "48": "favicons/analytics-waterfall/favicon-48x48.png",
+        "180": "favicons/analytics-waterfall/apple-touch-icon.png",
+        "192": "favicons/analytics-waterfall/android-chrome-192x192.png",
+        "512": "favicons/analytics-waterfall/android-chrome-512x512.png",
+        "ico": "favicons/analytics-waterfall/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-calendar",
+      "line": "analytics",
+      "title": "Calendar Heat",
+      "desc": "Activity calendar. Header plus intensity dots.",
+      "files": {
+        "solid": "logos/analytics/analytics-calendar--solid.svg",
+        "gradient": "logos/analytics/analytics-calendar--gradient.svg",
+        "outline": "logos/analytics/analytics-calendar--outline.svg",
+        "tile": "logos/analytics/analytics-calendar--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-calendar/favicon.svg",
+        "16": "favicons/analytics-calendar/favicon-16x16.png",
+        "32": "favicons/analytics-calendar/favicon-32x32.png",
+        "48": "favicons/analytics-calendar/favicon-48x48.png",
+        "180": "favicons/analytics-calendar/apple-touch-icon.png",
+        "192": "favicons/analytics-calendar/android-chrome-192x192.png",
+        "512": "favicons/analytics-calendar/android-chrome-512x512.png",
+        "ico": "favicons/analytics-calendar/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-radar-chart",
+      "line": "analytics",
+      "title": "Radar Chart",
+      "desc": "Pentagon radar for multi-factor wallet scores.",
+      "files": {
+        "solid": "logos/analytics/analytics-radar-chart--solid.svg",
+        "gradient": "logos/analytics/analytics-radar-chart--gradient.svg",
+        "outline": "logos/analytics/analytics-radar-chart--outline.svg",
+        "tile": "logos/analytics/analytics-radar-chart--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-radar-chart/favicon.svg",
+        "16": "favicons/analytics-radar-chart/favicon-16x16.png",
+        "32": "favicons/analytics-radar-chart/favicon-32x32.png",
+        "48": "favicons/analytics-radar-chart/favicon-48x48.png",
+        "180": "favicons/analytics-radar-chart/apple-touch-icon.png",
+        "192": "favicons/analytics-radar-chart/android-chrome-192x192.png",
+        "512": "favicons/analytics-radar-chart/android-chrome-512x512.png",
+        "ico": "favicons/analytics-radar-chart/favicon.ico"
+      }
+    },
+    {
+      "slug": "analytics-dual-axis",
+      "line": "analytics",
+      "title": "Dual Axis",
+      "desc": "Two-series chart. Volume under price.",
+      "files": {
+        "solid": "logos/analytics/analytics-dual-axis--solid.svg",
+        "gradient": "logos/analytics/analytics-dual-axis--gradient.svg",
+        "outline": "logos/analytics/analytics-dual-axis--outline.svg",
+        "tile": "logos/analytics/analytics-dual-axis--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/analytics-dual-axis/favicon.svg",
+        "16": "favicons/analytics-dual-axis/favicon-16x16.png",
+        "32": "favicons/analytics-dual-axis/favicon-32x32.png",
+        "48": "favicons/analytics-dual-axis/favicon-48x48.png",
+        "180": "favicons/analytics-dual-axis/apple-touch-icon.png",
+        "192": "favicons/analytics-dual-axis/android-chrome-192x192.png",
+        "512": "favicons/analytics-dual-axis/android-chrome-512x512.png",
+        "ico": "favicons/analytics-dual-axis/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-wallet",
+      "line": "shield",
+      "title": "Shielded Wallet",
+      "desc": "Shield with a wallet outline cut through it.",
+      "files": {
+        "solid": "logos/shield/shield-wallet--solid.svg",
+        "gradient": "logos/shield/shield-wallet--gradient.svg",
+        "outline": "logos/shield/shield-wallet--outline.svg",
+        "tile": "logos/shield/shield-wallet--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-wallet/favicon.svg",
+        "16": "favicons/shield-wallet/favicon-16x16.png",
+        "32": "favicons/shield-wallet/favicon-32x32.png",
+        "48": "favicons/shield-wallet/favicon-48x48.png",
+        "180": "favicons/shield-wallet/apple-touch-icon.png",
+        "192": "favicons/shield-wallet/android-chrome-192x192.png",
+        "512": "favicons/shield-wallet/android-chrome-512x512.png",
+        "ico": "favicons/shield-wallet/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-coin",
+      "line": "shield",
+      "title": "Shield Coin",
+      "desc": "Shield guarding an accent coin.",
+      "files": {
+        "solid": "logos/shield/shield-coin--solid.svg",
+        "gradient": "logos/shield/shield-coin--gradient.svg",
+        "outline": "logos/shield/shield-coin--outline.svg",
+        "tile": "logos/shield/shield-coin--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-coin/favicon.svg",
+        "16": "favicons/shield-coin/favicon-16x16.png",
+        "32": "favicons/shield-coin/favicon-32x32.png",
+        "48": "favicons/shield-coin/favicon-48x48.png",
+        "180": "favicons/shield-coin/apple-touch-icon.png",
+        "192": "favicons/shield-coin/android-chrome-192x192.png",
+        "512": "favicons/shield-coin/android-chrome-512x512.png",
+        "ico": "favicons/shield-coin/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-check",
+      "line": "shield",
+      "title": "Shield Check",
+      "desc": "Verified shield. Recommended Wallet Shield favicon.",
+      "files": {
+        "solid": "logos/shield/shield-check--solid.svg",
+        "gradient": "logos/shield/shield-check--gradient.svg",
+        "outline": "logos/shield/shield-check--outline.svg",
+        "tile": "logos/shield/shield-check--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-check/favicon.svg",
+        "16": "favicons/shield-check/favicon-16x16.png",
+        "32": "favicons/shield-check/favicon-32x32.png",
+        "48": "favicons/shield-check/favicon-48x48.png",
+        "180": "favicons/shield-check/apple-touch-icon.png",
+        "192": "favicons/shield-check/android-chrome-192x192.png",
+        "512": "favicons/shield-check/android-chrome-512x512.png",
+        "ico": "favicons/shield-check/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-lock",
+      "line": "shield",
+      "title": "Shield Lock",
+      "desc": "Padlock cut into the shield.",
+      "files": {
+        "solid": "logos/shield/shield-lock--solid.svg",
+        "gradient": "logos/shield/shield-lock--gradient.svg",
+        "outline": "logos/shield/shield-lock--outline.svg",
+        "tile": "logos/shield/shield-lock--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-lock/favicon.svg",
+        "16": "favicons/shield-lock/favicon-16x16.png",
+        "32": "favicons/shield-lock/favicon-32x32.png",
+        "48": "favicons/shield-lock/favicon-48x48.png",
+        "180": "favicons/shield-lock/apple-touch-icon.png",
+        "192": "favicons/shield-lock/android-chrome-192x192.png",
+        "512": "favicons/shield-lock/android-chrome-512x512.png",
+        "ico": "favicons/shield-lock/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-split-w",
+      "line": "shield",
+      "title": "Split Shield W",
+      "desc": "Two-tone shield carrying the W monogram.",
+      "files": {
+        "solid": "logos/shield/shield-split-w--solid.svg",
+        "gradient": "logos/shield/shield-split-w--gradient.svg",
+        "outline": "logos/shield/shield-split-w--outline.svg",
+        "tile": "logos/shield/shield-split-w--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-split-w/favicon.svg",
+        "16": "favicons/shield-split-w/favicon-16x16.png",
+        "32": "favicons/shield-split-w/favicon-32x32.png",
+        "48": "favicons/shield-split-w/favicon-48x48.png",
+        "180": "favicons/shield-split-w/apple-touch-icon.png",
+        "192": "favicons/shield-split-w/android-chrome-192x192.png",
+        "512": "favicons/shield-split-w/android-chrome-512x512.png",
+        "ico": "favicons/shield-split-w/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-badge",
+      "line": "shield",
+      "title": "Wallet Shield Badge",
+      "desc": "Wallet with a verified shield badge.",
+      "files": {
+        "solid": "logos/shield/shield-badge--solid.svg",
+        "gradient": "logos/shield/shield-badge--gradient.svg",
+        "outline": "logos/shield/shield-badge--outline.svg",
+        "tile": "logos/shield/shield-badge--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-badge/favicon.svg",
+        "16": "favicons/shield-badge/favicon-16x16.png",
+        "32": "favicons/shield-badge/favicon-32x32.png",
+        "48": "favicons/shield-badge/favicon-48x48.png",
+        "180": "favicons/shield-badge/apple-touch-icon.png",
+        "192": "favicons/shield-badge/android-chrome-192x192.png",
+        "512": "favicons/shield-badge/android-chrome-512x512.png",
+        "ico": "favicons/shield-badge/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-hex-eye",
+      "line": "shield",
+      "title": "Watchful Hex",
+      "desc": "Hexagonal shield with a monitoring eye.",
+      "files": {
+        "solid": "logos/shield/shield-hex-eye--solid.svg",
+        "gradient": "logos/shield/shield-hex-eye--gradient.svg",
+        "outline": "logos/shield/shield-hex-eye--outline.svg",
+        "tile": "logos/shield/shield-hex-eye--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-hex-eye/favicon.svg",
+        "16": "favicons/shield-hex-eye/favicon-16x16.png",
+        "32": "favicons/shield-hex-eye/favicon-32x32.png",
+        "48": "favicons/shield-hex-eye/favicon-48x48.png",
+        "180": "favicons/shield-hex-eye/apple-touch-icon.png",
+        "192": "favicons/shield-hex-eye/android-chrome-192x192.png",
+        "512": "favicons/shield-hex-eye/android-chrome-512x512.png",
+        "ico": "favicons/shield-hex-eye/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-key",
+      "line": "shield",
+      "title": "Shield Key",
+      "desc": "Keyhole cut into the shield. Access control.",
+      "files": {
+        "solid": "logos/shield/shield-key--solid.svg",
+        "gradient": "logos/shield/shield-key--gradient.svg",
+        "outline": "logos/shield/shield-key--outline.svg",
+        "tile": "logos/shield/shield-key--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-key/favicon.svg",
+        "16": "favicons/shield-key/favicon-16x16.png",
+        "32": "favicons/shield-key/favicon-32x32.png",
+        "48": "favicons/shield-key/favicon-48x48.png",
+        "180": "favicons/shield-key/apple-touch-icon.png",
+        "192": "favicons/shield-key/android-chrome-192x192.png",
+        "512": "favicons/shield-key/android-chrome-512x512.png",
+        "ico": "favicons/shield-key/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-fingerprint",
+      "line": "shield",
+      "title": "Biometric Shield",
+      "desc": "Fingerprint arcs inside the shield.",
+      "files": {
+        "solid": "logos/shield/shield-fingerprint--solid.svg",
+        "gradient": "logos/shield/shield-fingerprint--gradient.svg",
+        "outline": "logos/shield/shield-fingerprint--outline.svg",
+        "tile": "logos/shield/shield-fingerprint--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-fingerprint/favicon.svg",
+        "16": "favicons/shield-fingerprint/favicon-16x16.png",
+        "32": "favicons/shield-fingerprint/favicon-32x32.png",
+        "48": "favicons/shield-fingerprint/favicon-48x48.png",
+        "180": "favicons/shield-fingerprint/apple-touch-icon.png",
+        "192": "favicons/shield-fingerprint/android-chrome-192x192.png",
+        "512": "favicons/shield-fingerprint/android-chrome-512x512.png",
+        "ico": "favicons/shield-fingerprint/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-bell",
+      "line": "shield",
+      "title": "Alert Shield",
+      "desc": "Shield with a notification bell.",
+      "files": {
+        "solid": "logos/shield/shield-bell--solid.svg",
+        "gradient": "logos/shield/shield-bell--gradient.svg",
+        "outline": "logos/shield/shield-bell--outline.svg",
+        "tile": "logos/shield/shield-bell--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-bell/favicon.svg",
+        "16": "favicons/shield-bell/favicon-16x16.png",
+        "32": "favicons/shield-bell/favicon-32x32.png",
+        "48": "favicons/shield-bell/favicon-48x48.png",
+        "180": "favicons/shield-bell/apple-touch-icon.png",
+        "192": "favicons/shield-bell/android-chrome-192x192.png",
+        "512": "favicons/shield-bell/android-chrome-512x512.png",
+        "ico": "favicons/shield-bell/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-slash",
+      "line": "shield",
+      "title": "Block Shield",
+      "desc": "Denied / blocked. Diagonal slash across the shield.",
+      "files": {
+        "solid": "logos/shield/shield-slash--solid.svg",
+        "gradient": "logos/shield/shield-slash--gradient.svg",
+        "outline": "logos/shield/shield-slash--outline.svg",
+        "tile": "logos/shield/shield-slash--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-slash/favicon.svg",
+        "16": "favicons/shield-slash/favicon-16x16.png",
+        "32": "favicons/shield-slash/favicon-32x32.png",
+        "48": "favicons/shield-slash/favicon-48x48.png",
+        "180": "favicons/shield-slash/apple-touch-icon.png",
+        "192": "favicons/shield-slash/android-chrome-192x192.png",
+        "512": "favicons/shield-slash/android-chrome-512x512.png",
+        "ico": "favicons/shield-slash/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-vault",
+      "line": "shield",
+      "title": "Vault Dial",
+      "desc": "Safe-dial vault. Cold-storage protection.",
+      "files": {
+        "solid": "logos/shield/shield-vault--solid.svg",
+        "gradient": "logos/shield/shield-vault--gradient.svg",
+        "outline": "logos/shield/shield-vault--outline.svg",
+        "tile": "logos/shield/shield-vault--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-vault/favicon.svg",
+        "16": "favicons/shield-vault/favicon-16x16.png",
+        "32": "favicons/shield-vault/favicon-32x32.png",
+        "48": "favicons/shield-vault/favicon-48x48.png",
+        "180": "favicons/shield-vault/apple-touch-icon.png",
+        "192": "favicons/shield-vault/android-chrome-192x192.png",
+        "512": "favicons/shield-vault/android-chrome-512x512.png",
+        "ico": "favicons/shield-vault/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-layers",
+      "line": "shield",
+      "title": "Layered Shield",
+      "desc": "Defense in depth. Two offset shields.",
+      "files": {
+        "solid": "logos/shield/shield-layers--solid.svg",
+        "gradient": "logos/shield/shield-layers--gradient.svg",
+        "outline": "logos/shield/shield-layers--outline.svg",
+        "tile": "logos/shield/shield-layers--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-layers/favicon.svg",
+        "16": "favicons/shield-layers/favicon-16x16.png",
+        "32": "favicons/shield-layers/favicon-32x32.png",
+        "48": "favicons/shield-layers/favicon-48x48.png",
+        "180": "favicons/shield-layers/apple-touch-icon.png",
+        "192": "favicons/shield-layers/android-chrome-192x192.png",
+        "512": "favicons/shield-layers/android-chrome-512x512.png",
+        "ico": "favicons/shield-layers/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-eye",
+      "line": "shield",
+      "title": "Watch Shield",
+      "desc": "Always-on monitoring eye inside the shield.",
+      "files": {
+        "solid": "logos/shield/shield-eye--solid.svg",
+        "gradient": "logos/shield/shield-eye--gradient.svg",
+        "outline": "logos/shield/shield-eye--outline.svg",
+        "tile": "logos/shield/shield-eye--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-eye/favicon.svg",
+        "16": "favicons/shield-eye/favicon-16x16.png",
+        "32": "favicons/shield-eye/favicon-32x32.png",
+        "48": "favicons/shield-eye/favicon-48x48.png",
+        "180": "favicons/shield-eye/apple-touch-icon.png",
+        "192": "favicons/shield-eye/android-chrome-192x192.png",
+        "512": "favicons/shield-eye/android-chrome-512x512.png",
+        "ico": "favicons/shield-eye/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-alert",
+      "line": "shield",
+      "title": "Risk Triangle",
+      "desc": "Risk warning sitting on a wallet.",
+      "files": {
+        "solid": "logos/shield/shield-alert--solid.svg",
+        "gradient": "logos/shield/shield-alert--gradient.svg",
+        "outline": "logos/shield/shield-alert--outline.svg",
+        "tile": "logos/shield/shield-alert--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-alert/favicon.svg",
+        "16": "favicons/shield-alert/favicon-16x16.png",
+        "32": "favicons/shield-alert/favicon-32x32.png",
+        "48": "favicons/shield-alert/favicon-48x48.png",
+        "180": "favicons/shield-alert/apple-touch-icon.png",
+        "192": "favicons/shield-alert/android-chrome-192x192.png",
+        "512": "favicons/shield-alert/android-chrome-512x512.png",
+        "ico": "favicons/shield-alert/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-lock-wallet",
+      "line": "shield",
+      "title": "Locked Wallet",
+      "desc": "Wallet body with a padlock instead of a clasp.",
+      "files": {
+        "solid": "logos/shield/shield-lock-wallet--solid.svg",
+        "gradient": "logos/shield/shield-lock-wallet--gradient.svg",
+        "outline": "logos/shield/shield-lock-wallet--outline.svg",
+        "tile": "logos/shield/shield-lock-wallet--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-lock-wallet/favicon.svg",
+        "16": "favicons/shield-lock-wallet/favicon-16x16.png",
+        "32": "favicons/shield-lock-wallet/favicon-32x32.png",
+        "48": "favicons/shield-lock-wallet/favicon-48x48.png",
+        "180": "favicons/shield-lock-wallet/apple-touch-icon.png",
+        "192": "favicons/shield-lock-wallet/android-chrome-192x192.png",
+        "512": "favicons/shield-lock-wallet/android-chrome-512x512.png",
+        "ico": "favicons/shield-lock-wallet/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-star",
+      "line": "shield",
+      "title": "Trusted Shield",
+      "desc": "Star of trust cut into the shield.",
+      "files": {
+        "solid": "logos/shield/shield-star--solid.svg",
+        "gradient": "logos/shield/shield-star--gradient.svg",
+        "outline": "logos/shield/shield-star--outline.svg",
+        "tile": "logos/shield/shield-star--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-star/favicon.svg",
+        "16": "favicons/shield-star/favicon-16x16.png",
+        "32": "favicons/shield-star/favicon-32x32.png",
+        "48": "favicons/shield-star/favicon-48x48.png",
+        "180": "favicons/shield-star/apple-touch-icon.png",
+        "192": "favicons/shield-star/android-chrome-192x192.png",
+        "512": "favicons/shield-star/android-chrome-512x512.png",
+        "ico": "favicons/shield-star/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-pulse",
+      "line": "shield",
+      "title": "Live Protect",
+      "desc": "Live monitoring pulse inside the shield.",
+      "files": {
+        "solid": "logos/shield/shield-pulse--solid.svg",
+        "gradient": "logos/shield/shield-pulse--gradient.svg",
+        "outline": "logos/shield/shield-pulse--outline.svg",
+        "tile": "logos/shield/shield-pulse--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-pulse/favicon.svg",
+        "16": "favicons/shield-pulse/favicon-16x16.png",
+        "32": "favicons/shield-pulse/favicon-32x32.png",
+        "48": "favicons/shield-pulse/favicon-48x48.png",
+        "180": "favicons/shield-pulse/apple-touch-icon.png",
+        "192": "favicons/shield-pulse/android-chrome-192x192.png",
+        "512": "favicons/shield-pulse/android-chrome-512x512.png",
+        "ico": "favicons/shield-pulse/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-cross",
+      "line": "shield",
+      "title": "Guard Cross",
+      "desc": "Protective cross on the shield.",
+      "files": {
+        "solid": "logos/shield/shield-cross--solid.svg",
+        "gradient": "logos/shield/shield-cross--gradient.svg",
+        "outline": "logos/shield/shield-cross--outline.svg",
+        "tile": "logos/shield/shield-cross--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-cross/favicon.svg",
+        "16": "favicons/shield-cross/favicon-16x16.png",
+        "32": "favicons/shield-cross/favicon-32x32.png",
+        "48": "favicons/shield-cross/favicon-48x48.png",
+        "180": "favicons/shield-cross/apple-touch-icon.png",
+        "192": "favicons/shield-cross/android-chrome-192x192.png",
+        "512": "favicons/shield-cross/android-chrome-512x512.png",
+        "ico": "favicons/shield-cross/favicon.ico"
+      }
+    },
+    {
+      "slug": "shield-scan",
+      "line": "shield",
+      "title": "Wallet Scan",
+      "desc": "Scan brackets around a wallet. Incoming threat check.",
+      "files": {
+        "solid": "logos/shield/shield-scan--solid.svg",
+        "gradient": "logos/shield/shield-scan--gradient.svg",
+        "outline": "logos/shield/shield-scan--outline.svg",
+        "tile": "logos/shield/shield-scan--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/shield-scan/favicon.svg",
+        "16": "favicons/shield-scan/favicon-16x16.png",
+        "32": "favicons/shield-scan/favicon-32x32.png",
+        "48": "favicons/shield-scan/favicon-48x48.png",
+        "180": "favicons/shield-scan/apple-touch-icon.png",
+        "192": "favicons/shield-scan/android-chrome-192x192.png",
+        "512": "favicons/shield-scan/android-chrome-512x512.png",
+        "ico": "favicons/shield-scan/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-wallet-eye",
+      "line": "intelligence",
+      "title": "Wallet Eye",
+      "desc": "All-seeing eye cut into the wallet.",
+      "files": {
+        "solid": "logos/intelligence/intel-wallet-eye--solid.svg",
+        "gradient": "logos/intelligence/intel-wallet-eye--gradient.svg",
+        "outline": "logos/intelligence/intel-wallet-eye--outline.svg",
+        "tile": "logos/intelligence/intel-wallet-eye--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-wallet-eye/favicon.svg",
+        "16": "favicons/intel-wallet-eye/favicon-16x16.png",
+        "32": "favicons/intel-wallet-eye/favicon-32x32.png",
+        "48": "favicons/intel-wallet-eye/favicon-48x48.png",
+        "180": "favicons/intel-wallet-eye/apple-touch-icon.png",
+        "192": "favicons/intel-wallet-eye/android-chrome-192x192.png",
+        "512": "favicons/intel-wallet-eye/android-chrome-512x512.png",
+        "ico": "favicons/intel-wallet-eye/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-wallet-nodes",
+      "line": "intelligence",
+      "title": "Wallet Graph",
+      "desc": "Connected node graph cut through the wallet.",
+      "files": {
+        "solid": "logos/intelligence/intel-wallet-nodes--solid.svg",
+        "gradient": "logos/intelligence/intel-wallet-nodes--gradient.svg",
+        "outline": "logos/intelligence/intel-wallet-nodes--outline.svg",
+        "tile": "logos/intelligence/intel-wallet-nodes--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-wallet-nodes/favicon.svg",
+        "16": "favicons/intel-wallet-nodes/favicon-16x16.png",
+        "32": "favicons/intel-wallet-nodes/favicon-32x32.png",
+        "48": "favicons/intel-wallet-nodes/favicon-48x48.png",
+        "180": "favicons/intel-wallet-nodes/apple-touch-icon.png",
+        "192": "favicons/intel-wallet-nodes/android-chrome-192x192.png",
+        "512": "favicons/intel-wallet-nodes/android-chrome-512x512.png",
+        "ico": "favicons/intel-wallet-nodes/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-neural-w",
+      "line": "intelligence",
+      "title": "Neural W",
+      "desc": "W drawn as a neural graph. Recommended Intelligence favicon.",
+      "files": {
+        "solid": "logos/intelligence/intel-neural-w--solid.svg",
+        "gradient": "logos/intelligence/intel-neural-w--gradient.svg",
+        "outline": "logos/intelligence/intel-neural-w--outline.svg",
+        "tile": "logos/intelligence/intel-neural-w--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-neural-w/favicon.svg",
+        "16": "favicons/intel-neural-w/favicon-16x16.png",
+        "32": "favicons/intel-neural-w/favicon-32x32.png",
+        "48": "favicons/intel-neural-w/favicon-48x48.png",
+        "180": "favicons/intel-neural-w/apple-touch-icon.png",
+        "192": "favicons/intel-neural-w/android-chrome-192x192.png",
+        "512": "favicons/intel-neural-w/android-chrome-512x512.png",
+        "ico": "favicons/intel-neural-w/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-magnify",
+      "line": "intelligence",
+      "title": "Wallet Lens",
+      "desc": "Wallet inspected with a magnifying glass.",
+      "files": {
+        "solid": "logos/intelligence/intel-magnify--solid.svg",
+        "gradient": "logos/intelligence/intel-magnify--gradient.svg",
+        "outline": "logos/intelligence/intel-magnify--outline.svg",
+        "tile": "logos/intelligence/intel-magnify--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-magnify/favicon.svg",
+        "16": "favicons/intel-magnify/favicon-16x16.png",
+        "32": "favicons/intel-magnify/favicon-32x32.png",
+        "48": "favicons/intel-magnify/favicon-48x48.png",
+        "180": "favicons/intel-magnify/apple-touch-icon.png",
+        "192": "favicons/intel-magnify/android-chrome-192x192.png",
+        "512": "favicons/intel-magnify/android-chrome-512x512.png",
+        "ico": "favicons/intel-magnify/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-bulb",
+      "line": "intelligence",
+      "title": "Insight Wallet",
+      "desc": "Lightbulb cut-out. Insight landing on a wallet.",
+      "files": {
+        "solid": "logos/intelligence/intel-bulb--solid.svg",
+        "gradient": "logos/intelligence/intel-bulb--gradient.svg",
+        "outline": "logos/intelligence/intel-bulb--outline.svg",
+        "tile": "logos/intelligence/intel-bulb--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-bulb/favicon.svg",
+        "16": "favicons/intel-bulb/favicon-16x16.png",
+        "32": "favicons/intel-bulb/favicon-32x32.png",
+        "48": "favicons/intel-bulb/favicon-48x48.png",
+        "180": "favicons/intel-bulb/apple-touch-icon.png",
+        "192": "favicons/intel-bulb/android-chrome-192x192.png",
+        "512": "favicons/intel-bulb/android-chrome-512x512.png",
+        "ico": "favicons/intel-bulb/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-circuit-w",
+      "line": "intelligence",
+      "title": "Circuit W",
+      "desc": "W trace with circuit pads at each vertex.",
+      "files": {
+        "solid": "logos/intelligence/intel-circuit-w--solid.svg",
+        "gradient": "logos/intelligence/intel-circuit-w--gradient.svg",
+        "outline": "logos/intelligence/intel-circuit-w--outline.svg",
+        "tile": "logos/intelligence/intel-circuit-w--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-circuit-w/favicon.svg",
+        "16": "favicons/intel-circuit-w/favicon-16x16.png",
+        "32": "favicons/intel-circuit-w/favicon-32x32.png",
+        "48": "favicons/intel-circuit-w/favicon-48x48.png",
+        "180": "favicons/intel-circuit-w/apple-touch-icon.png",
+        "192": "favicons/intel-circuit-w/android-chrome-192x192.png",
+        "512": "favicons/intel-circuit-w/android-chrome-512x512.png",
+        "ico": "favicons/intel-circuit-w/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-radar",
+      "line": "intelligence",
+      "title": "Wallet Radar",
+      "desc": "Radar disc with an accent sweep and target blip.",
+      "files": {
+        "solid": "logos/intelligence/intel-radar--solid.svg",
+        "gradient": "logos/intelligence/intel-radar--gradient.svg",
+        "outline": "logos/intelligence/intel-radar--outline.svg",
+        "tile": "logos/intelligence/intel-radar--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-radar/favicon.svg",
+        "16": "favicons/intel-radar/favicon-16x16.png",
+        "32": "favicons/intel-radar/favicon-32x32.png",
+        "48": "favicons/intel-radar/favicon-48x48.png",
+        "180": "favicons/intel-radar/apple-touch-icon.png",
+        "192": "favicons/intel-radar/android-chrome-192x192.png",
+        "512": "favicons/intel-radar/android-chrome-512x512.png",
+        "ico": "favicons/intel-radar/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-tag",
+      "line": "intelligence",
+      "title": "Wallet Tag",
+      "desc": "Entity label / tag. Wallet attribution.",
+      "files": {
+        "solid": "logos/intelligence/intel-tag--solid.svg",
+        "gradient": "logos/intelligence/intel-tag--gradient.svg",
+        "outline": "logos/intelligence/intel-tag--outline.svg",
+        "tile": "logos/intelligence/intel-tag--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-tag/favicon.svg",
+        "16": "favicons/intel-tag/favicon-16x16.png",
+        "32": "favicons/intel-tag/favicon-32x32.png",
+        "48": "favicons/intel-tag/favicon-48x48.png",
+        "180": "favicons/intel-tag/apple-touch-icon.png",
+        "192": "favicons/intel-tag/android-chrome-192x192.png",
+        "512": "favicons/intel-tag/android-chrome-512x512.png",
+        "ico": "favicons/intel-tag/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-score",
+      "line": "intelligence",
+      "title": "Score Ring",
+      "desc": "Open score ring with an accent needle.",
+      "files": {
+        "solid": "logos/intelligence/intel-score--solid.svg",
+        "gradient": "logos/intelligence/intel-score--gradient.svg",
+        "outline": "logos/intelligence/intel-score--outline.svg",
+        "tile": "logos/intelligence/intel-score--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-score/favicon.svg",
+        "16": "favicons/intel-score/favicon-16x16.png",
+        "32": "favicons/intel-score/favicon-32x32.png",
+        "48": "favicons/intel-score/favicon-48x48.png",
+        "180": "favicons/intel-score/apple-touch-icon.png",
+        "192": "favicons/intel-score/android-chrome-192x192.png",
+        "512": "favicons/intel-score/android-chrome-512x512.png",
+        "ico": "favicons/intel-score/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-brain",
+      "line": "intelligence",
+      "title": "Cluster Brain",
+      "desc": "Insight cluster. Nodes grouped like a cortex.",
+      "files": {
+        "solid": "logos/intelligence/intel-brain--solid.svg",
+        "gradient": "logos/intelligence/intel-brain--gradient.svg",
+        "outline": "logos/intelligence/intel-brain--outline.svg",
+        "tile": "logos/intelligence/intel-brain--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-brain/favicon.svg",
+        "16": "favicons/intel-brain/favicon-16x16.png",
+        "32": "favicons/intel-brain/favicon-32x32.png",
+        "48": "favicons/intel-brain/favicon-48x48.png",
+        "180": "favicons/intel-brain/apple-touch-icon.png",
+        "192": "favicons/intel-brain/android-chrome-192x192.png",
+        "512": "favicons/intel-brain/android-chrome-512x512.png",
+        "ico": "favicons/intel-brain/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-chip",
+      "line": "intelligence",
+      "title": "AI Chip",
+      "desc": "On-chain intelligence chip.",
+      "files": {
+        "solid": "logos/intelligence/intel-chip--solid.svg",
+        "gradient": "logos/intelligence/intel-chip--gradient.svg",
+        "outline": "logos/intelligence/intel-chip--outline.svg",
+        "tile": "logos/intelligence/intel-chip--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-chip/favicon.svg",
+        "16": "favicons/intel-chip/favicon-16x16.png",
+        "32": "favicons/intel-chip/favicon-32x32.png",
+        "48": "favicons/intel-chip/favicon-48x48.png",
+        "180": "favicons/intel-chip/apple-touch-icon.png",
+        "192": "favicons/intel-chip/android-chrome-192x192.png",
+        "512": "favicons/intel-chip/android-chrome-512x512.png",
+        "ico": "favicons/intel-chip/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-target",
+      "line": "intelligence",
+      "title": "Target Wallet",
+      "desc": "Crosshair on a wallet. Entity targeting.",
+      "files": {
+        "solid": "logos/intelligence/intel-target--solid.svg",
+        "gradient": "logos/intelligence/intel-target--gradient.svg",
+        "outline": "logos/intelligence/intel-target--outline.svg",
+        "tile": "logos/intelligence/intel-target--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-target/favicon.svg",
+        "16": "favicons/intel-target/favicon-16x16.png",
+        "32": "favicons/intel-target/favicon-32x32.png",
+        "48": "favicons/intel-target/favicon-48x48.png",
+        "180": "favicons/intel-target/apple-touch-icon.png",
+        "192": "favicons/intel-target/android-chrome-192x192.png",
+        "512": "favicons/intel-target/android-chrome-512x512.png",
+        "ico": "favicons/intel-target/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-constellation",
+      "line": "intelligence",
+      "title": "Constellation",
+      "desc": "Labeled wallet cluster in a star map.",
+      "files": {
+        "solid": "logos/intelligence/intel-constellation--solid.svg",
+        "gradient": "logos/intelligence/intel-constellation--gradient.svg",
+        "outline": "logos/intelligence/intel-constellation--outline.svg",
+        "tile": "logos/intelligence/intel-constellation--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-constellation/favicon.svg",
+        "16": "favicons/intel-constellation/favicon-16x16.png",
+        "32": "favicons/intel-constellation/favicon-32x32.png",
+        "48": "favicons/intel-constellation/favicon-48x48.png",
+        "180": "favicons/intel-constellation/apple-touch-icon.png",
+        "192": "favicons/intel-constellation/android-chrome-192x192.png",
+        "512": "favicons/intel-constellation/android-chrome-512x512.png",
+        "ico": "favicons/intel-constellation/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-id",
+      "line": "intelligence",
+      "title": "Identity Card",
+      "desc": "Wallet identity card with portrait and stripes.",
+      "files": {
+        "solid": "logos/intelligence/intel-id--solid.svg",
+        "gradient": "logos/intelligence/intel-id--gradient.svg",
+        "outline": "logos/intelligence/intel-id--outline.svg",
+        "tile": "logos/intelligence/intel-id--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-id/favicon.svg",
+        "16": "favicons/intel-id/favicon-16x16.png",
+        "32": "favicons/intel-id/favicon-32x32.png",
+        "48": "favicons/intel-id/favicon-48x48.png",
+        "180": "favicons/intel-id/apple-touch-icon.png",
+        "192": "favicons/intel-id/android-chrome-192x192.png",
+        "512": "favicons/intel-id/android-chrome-512x512.png",
+        "ico": "favicons/intel-id/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-binary",
+      "line": "intelligence",
+      "title": "Data Wallet",
+      "desc": "Ones and zeros streaming through a wallet.",
+      "files": {
+        "solid": "logos/intelligence/intel-binary--solid.svg",
+        "gradient": "logos/intelligence/intel-binary--gradient.svg",
+        "outline": "logos/intelligence/intel-binary--outline.svg",
+        "tile": "logos/intelligence/intel-binary--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-binary/favicon.svg",
+        "16": "favicons/intel-binary/favicon-16x16.png",
+        "32": "favicons/intel-binary/favicon-32x32.png",
+        "48": "favicons/intel-binary/favicon-48x48.png",
+        "180": "favicons/intel-binary/apple-touch-icon.png",
+        "192": "favicons/intel-binary/android-chrome-192x192.png",
+        "512": "favicons/intel-binary/android-chrome-512x512.png",
+        "ico": "favicons/intel-binary/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-cluster",
+      "line": "intelligence",
+      "title": "Overlap Cluster",
+      "desc": "Three overlapping wallets / sets.",
+      "files": {
+        "solid": "logos/intelligence/intel-cluster--solid.svg",
+        "gradient": "logos/intelligence/intel-cluster--gradient.svg",
+        "outline": "logos/intelligence/intel-cluster--outline.svg",
+        "tile": "logos/intelligence/intel-cluster--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-cluster/favicon.svg",
+        "16": "favicons/intel-cluster/favicon-16x16.png",
+        "32": "favicons/intel-cluster/favicon-32x32.png",
+        "48": "favicons/intel-cluster/favicon-48x48.png",
+        "180": "favicons/intel-cluster/apple-touch-icon.png",
+        "192": "favicons/intel-cluster/android-chrome-192x192.png",
+        "512": "favicons/intel-cluster/android-chrome-512x512.png",
+        "ico": "favicons/intel-cluster/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-timeline",
+      "line": "intelligence",
+      "title": "Intel Timeline",
+      "desc": "Event timeline of labeled wallet activity.",
+      "files": {
+        "solid": "logos/intelligence/intel-timeline--solid.svg",
+        "gradient": "logos/intelligence/intel-timeline--gradient.svg",
+        "outline": "logos/intelligence/intel-timeline--outline.svg",
+        "tile": "logos/intelligence/intel-timeline--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-timeline/favicon.svg",
+        "16": "favicons/intel-timeline/favicon-16x16.png",
+        "32": "favicons/intel-timeline/favicon-32x32.png",
+        "48": "favicons/intel-timeline/favicon-48x48.png",
+        "180": "favicons/intel-timeline/apple-touch-icon.png",
+        "192": "favicons/intel-timeline/android-chrome-192x192.png",
+        "512": "favicons/intel-timeline/android-chrome-512x512.png",
+        "ico": "favicons/intel-timeline/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-fingerprint",
+      "line": "intelligence",
+      "title": "Print Scan",
+      "desc": "Fingerprint as the whole mark. Unique wallet identity.",
+      "files": {
+        "solid": "logos/intelligence/intel-fingerprint--solid.svg",
+        "gradient": "logos/intelligence/intel-fingerprint--gradient.svg",
+        "outline": "logos/intelligence/intel-fingerprint--outline.svg",
+        "tile": "logos/intelligence/intel-fingerprint--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-fingerprint/favicon.svg",
+        "16": "favicons/intel-fingerprint/favicon-16x16.png",
+        "32": "favicons/intel-fingerprint/favicon-32x32.png",
+        "48": "favicons/intel-fingerprint/favicon-48x48.png",
+        "180": "favicons/intel-fingerprint/apple-touch-icon.png",
+        "192": "favicons/intel-fingerprint/android-chrome-192x192.png",
+        "512": "favicons/intel-fingerprint/android-chrome-512x512.png",
+        "ico": "favicons/intel-fingerprint/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-spark",
+      "line": "intelligence",
+      "title": "Insight Spark",
+      "desc": "Four-point spark of a new finding.",
+      "files": {
+        "solid": "logos/intelligence/intel-spark--solid.svg",
+        "gradient": "logos/intelligence/intel-spark--gradient.svg",
+        "outline": "logos/intelligence/intel-spark--outline.svg",
+        "tile": "logos/intelligence/intel-spark--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-spark/favicon.svg",
+        "16": "favicons/intel-spark/favicon-16x16.png",
+        "32": "favicons/intel-spark/favicon-32x32.png",
+        "48": "favicons/intel-spark/favicon-48x48.png",
+        "180": "favicons/intel-spark/apple-touch-icon.png",
+        "192": "favicons/intel-spark/android-chrome-192x192.png",
+        "512": "favicons/intel-spark/android-chrome-512x512.png",
+        "ico": "favicons/intel-spark/favicon.ico"
+      }
+    },
+    {
+      "slug": "intel-funnel",
+      "line": "intelligence",
+      "title": "Attribution Funnel",
+      "desc": "How labels concentrate. Three insight stages.",
+      "files": {
+        "solid": "logos/intelligence/intel-funnel--solid.svg",
+        "gradient": "logos/intelligence/intel-funnel--gradient.svg",
+        "outline": "logos/intelligence/intel-funnel--outline.svg",
+        "tile": "logos/intelligence/intel-funnel--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/intel-funnel/favicon.svg",
+        "16": "favicons/intel-funnel/favicon-16x16.png",
+        "32": "favicons/intel-funnel/favicon-32x32.png",
+        "48": "favicons/intel-funnel/favicon-48x48.png",
+        "180": "favicons/intel-funnel/apple-touch-icon.png",
+        "192": "favicons/intel-funnel/android-chrome-192x192.png",
+        "512": "favicons/intel-funnel/android-chrome-512x512.png",
+        "ico": "favicons/intel-funnel/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-wrench",
+      "line": "specialist",
+      "title": "Wallet Wrench",
+      "desc": "Service wrench badged onto the wallet.",
+      "files": {
+        "solid": "logos/specialist/spec-wrench--solid.svg",
+        "gradient": "logos/specialist/spec-wrench--gradient.svg",
+        "outline": "logos/specialist/spec-wrench--outline.svg",
+        "tile": "logos/specialist/spec-wrench--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-wrench/favicon.svg",
+        "16": "favicons/spec-wrench/favicon-16x16.png",
+        "32": "favicons/spec-wrench/favicon-32x32.png",
+        "48": "favicons/spec-wrench/favicon-48x48.png",
+        "180": "favicons/spec-wrench/apple-touch-icon.png",
+        "192": "favicons/spec-wrench/android-chrome-192x192.png",
+        "512": "favicons/spec-wrench/android-chrome-512x512.png",
+        "ico": "favicons/spec-wrench/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-star",
+      "line": "specialist",
+      "title": "Star Badge",
+      "desc": "Wallet with a specialist star rating.",
+      "files": {
+        "solid": "logos/specialist/spec-star--solid.svg",
+        "gradient": "logos/specialist/spec-star--gradient.svg",
+        "outline": "logos/specialist/spec-star--outline.svg",
+        "tile": "logos/specialist/spec-star--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-star/favicon.svg",
+        "16": "favicons/spec-star/favicon-16x16.png",
+        "32": "favicons/spec-star/favicon-32x32.png",
+        "48": "favicons/spec-star/favicon-48x48.png",
+        "180": "favicons/spec-star/apple-touch-icon.png",
+        "192": "favicons/spec-star/android-chrome-192x192.png",
+        "512": "favicons/spec-star/android-chrome-512x512.png",
+        "ico": "favicons/spec-star/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-seal",
+      "line": "specialist",
+      "title": "Certified Seal",
+      "desc": "Rosette seal with check and ribbon. Recommended Specialist favicon.",
+      "files": {
+        "solid": "logos/specialist/spec-seal--solid.svg",
+        "gradient": "logos/specialist/spec-seal--gradient.svg",
+        "outline": "logos/specialist/spec-seal--outline.svg",
+        "tile": "logos/specialist/spec-seal--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-seal/favicon.svg",
+        "16": "favicons/spec-seal/favicon-16x16.png",
+        "32": "favicons/spec-seal/favicon-32x32.png",
+        "48": "favicons/spec-seal/favicon-48x48.png",
+        "180": "favicons/spec-seal/apple-touch-icon.png",
+        "192": "favicons/spec-seal/android-chrome-192x192.png",
+        "512": "favicons/spec-seal/android-chrome-512x512.png",
+        "ico": "favicons/spec-seal/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-check",
+      "line": "specialist",
+      "title": "Verified Wallet",
+      "desc": "Wallet with a specialist check cut-out.",
+      "files": {
+        "solid": "logos/specialist/spec-check--solid.svg",
+        "gradient": "logos/specialist/spec-check--gradient.svg",
+        "outline": "logos/specialist/spec-check--outline.svg",
+        "tile": "logos/specialist/spec-check--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-check/favicon.svg",
+        "16": "favicons/spec-check/favicon-16x16.png",
+        "32": "favicons/spec-check/favicon-32x32.png",
+        "48": "favicons/spec-check/favicon-48x48.png",
+        "180": "favicons/spec-check/apple-touch-icon.png",
+        "192": "favicons/spec-check/android-chrome-192x192.png",
+        "512": "favicons/spec-check/android-chrome-512x512.png",
+        "ico": "favicons/spec-check/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-headset",
+      "line": "specialist",
+      "title": "Wallet Support",
+      "desc": "Support headset framing a wallet card.",
+      "files": {
+        "solid": "logos/specialist/spec-headset--solid.svg",
+        "gradient": "logos/specialist/spec-headset--gradient.svg",
+        "outline": "logos/specialist/spec-headset--outline.svg",
+        "tile": "logos/specialist/spec-headset--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-headset/favicon.svg",
+        "16": "favicons/spec-headset/favicon-16x16.png",
+        "32": "favicons/spec-headset/favicon-32x32.png",
+        "48": "favicons/spec-headset/favicon-48x48.png",
+        "180": "favicons/spec-headset/apple-touch-icon.png",
+        "192": "favicons/spec-headset/android-chrome-192x192.png",
+        "512": "favicons/spec-headset/android-chrome-512x512.png",
+        "ico": "favicons/spec-headset/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-cap",
+      "line": "specialist",
+      "title": "Wallet Scholar",
+      "desc": "Wallet wearing a graduation cap. Expert knowledge.",
+      "files": {
+        "solid": "logos/specialist/spec-cap--solid.svg",
+        "gradient": "logos/specialist/spec-cap--gradient.svg",
+        "outline": "logos/specialist/spec-cap--outline.svg",
+        "tile": "logos/specialist/spec-cap--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-cap/favicon.svg",
+        "16": "favicons/spec-cap/favicon-16x16.png",
+        "32": "favicons/spec-cap/favicon-32x32.png",
+        "48": "favicons/spec-cap/favicon-48x48.png",
+        "180": "favicons/spec-cap/apple-touch-icon.png",
+        "192": "favicons/spec-cap/android-chrome-192x192.png",
+        "512": "favicons/spec-cap/android-chrome-512x512.png",
+        "ico": "favicons/spec-cap/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-toolbox",
+      "line": "specialist",
+      "title": "Toolbox Wallet",
+      "desc": "Wallet drawn as a specialist toolbox.",
+      "files": {
+        "solid": "logos/specialist/spec-toolbox--solid.svg",
+        "gradient": "logos/specialist/spec-toolbox--gradient.svg",
+        "outline": "logos/specialist/spec-toolbox--outline.svg",
+        "tile": "logos/specialist/spec-toolbox--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-toolbox/favicon.svg",
+        "16": "favicons/spec-toolbox/favicon-16x16.png",
+        "32": "favicons/spec-toolbox/favicon-32x32.png",
+        "48": "favicons/spec-toolbox/favicon-48x48.png",
+        "180": "favicons/spec-toolbox/apple-touch-icon.png",
+        "192": "favicons/spec-toolbox/android-chrome-192x192.png",
+        "512": "favicons/spec-toolbox/android-chrome-512x512.png",
+        "ico": "favicons/spec-toolbox/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-rings",
+      "line": "specialist",
+      "title": "Wallet Partner",
+      "desc": "Two linked rings. Partnership and desk work.",
+      "files": {
+        "solid": "logos/specialist/spec-rings--solid.svg",
+        "gradient": "logos/specialist/spec-rings--gradient.svg",
+        "outline": "logos/specialist/spec-rings--outline.svg",
+        "tile": "logos/specialist/spec-rings--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-rings/favicon.svg",
+        "16": "favicons/spec-rings/favicon-16x16.png",
+        "32": "favicons/spec-rings/favicon-32x32.png",
+        "48": "favicons/spec-rings/favicon-48x48.png",
+        "180": "favicons/spec-rings/apple-touch-icon.png",
+        "192": "favicons/spec-rings/android-chrome-192x192.png",
+        "512": "favicons/spec-rings/android-chrome-512x512.png",
+        "ico": "favicons/spec-rings/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-briefcase",
+      "line": "specialist",
+      "title": "Briefcase",
+      "desc": "Advisory briefcase. Desk and enterprise work.",
+      "files": {
+        "solid": "logos/specialist/spec-briefcase--solid.svg",
+        "gradient": "logos/specialist/spec-briefcase--gradient.svg",
+        "outline": "logos/specialist/spec-briefcase--outline.svg",
+        "tile": "logos/specialist/spec-briefcase--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-briefcase/favicon.svg",
+        "16": "favicons/spec-briefcase/favicon-16x16.png",
+        "32": "favicons/spec-briefcase/favicon-32x32.png",
+        "48": "favicons/spec-briefcase/favicon-48x48.png",
+        "180": "favicons/spec-briefcase/apple-touch-icon.png",
+        "192": "favicons/spec-briefcase/android-chrome-192x192.png",
+        "512": "favicons/spec-briefcase/android-chrome-512x512.png",
+        "ico": "favicons/spec-briefcase/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-medal",
+      "line": "specialist",
+      "title": "Service Medal",
+      "desc": "Medal with ribbon. Specialist recognition.",
+      "files": {
+        "solid": "logos/specialist/spec-medal--solid.svg",
+        "gradient": "logos/specialist/spec-medal--gradient.svg",
+        "outline": "logos/specialist/spec-medal--outline.svg",
+        "tile": "logos/specialist/spec-medal--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-medal/favicon.svg",
+        "16": "favicons/spec-medal/favicon-16x16.png",
+        "32": "favicons/spec-medal/favicon-32x32.png",
+        "48": "favicons/spec-medal/favicon-48x48.png",
+        "180": "favicons/spec-medal/apple-touch-icon.png",
+        "192": "favicons/spec-medal/android-chrome-192x192.png",
+        "512": "favicons/spec-medal/android-chrome-512x512.png",
+        "ico": "favicons/spec-medal/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-user",
+      "line": "specialist",
+      "title": "Named Specialist",
+      "desc": "Person mark for a dedicated specialist.",
+      "files": {
+        "solid": "logos/specialist/spec-user--solid.svg",
+        "gradient": "logos/specialist/spec-user--gradient.svg",
+        "outline": "logos/specialist/spec-user--outline.svg",
+        "tile": "logos/specialist/spec-user--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-user/favicon.svg",
+        "16": "favicons/spec-user/favicon-16x16.png",
+        "32": "favicons/spec-user/favicon-32x32.png",
+        "48": "favicons/spec-user/favicon-48x48.png",
+        "180": "favicons/spec-user/apple-touch-icon.png",
+        "192": "favicons/spec-user/android-chrome-192x192.png",
+        "512": "favicons/spec-user/android-chrome-512x512.png",
+        "ico": "favicons/spec-user/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-clipboard",
+      "line": "specialist",
+      "title": "Runbook",
+      "desc": "Clipboard of procedures. Specialist runbooks.",
+      "files": {
+        "solid": "logos/specialist/spec-clipboard--solid.svg",
+        "gradient": "logos/specialist/spec-clipboard--gradient.svg",
+        "outline": "logos/specialist/spec-clipboard--outline.svg",
+        "tile": "logos/specialist/spec-clipboard--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-clipboard/favicon.svg",
+        "16": "favicons/spec-clipboard/favicon-16x16.png",
+        "32": "favicons/spec-clipboard/favicon-32x32.png",
+        "48": "favicons/spec-clipboard/favicon-48x48.png",
+        "180": "favicons/spec-clipboard/apple-touch-icon.png",
+        "192": "favicons/spec-clipboard/android-chrome-192x192.png",
+        "512": "favicons/spec-clipboard/android-chrome-512x512.png",
+        "ico": "favicons/spec-clipboard/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-chat",
+      "line": "specialist",
+      "title": "Advisor Chat",
+      "desc": "Conversation bubble. Specialist desk chat.",
+      "files": {
+        "solid": "logos/specialist/spec-chat--solid.svg",
+        "gradient": "logos/specialist/spec-chat--gradient.svg",
+        "outline": "logos/specialist/spec-chat--outline.svg",
+        "tile": "logos/specialist/spec-chat--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-chat/favicon.svg",
+        "16": "favicons/spec-chat/favicon-16x16.png",
+        "32": "favicons/spec-chat/favicon-32x32.png",
+        "48": "favicons/spec-chat/favicon-48x48.png",
+        "180": "favicons/spec-chat/apple-touch-icon.png",
+        "192": "favicons/spec-chat/android-chrome-192x192.png",
+        "512": "favicons/spec-chat/android-chrome-512x512.png",
+        "ico": "favicons/spec-chat/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-book",
+      "line": "specialist",
+      "title": "Playbook",
+      "desc": "Open book. Specialist knowledge base.",
+      "files": {
+        "solid": "logos/specialist/spec-book--solid.svg",
+        "gradient": "logos/specialist/spec-book--gradient.svg",
+        "outline": "logos/specialist/spec-book--outline.svg",
+        "tile": "logos/specialist/spec-book--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-book/favicon.svg",
+        "16": "favicons/spec-book/favicon-16x16.png",
+        "32": "favicons/spec-book/favicon-32x32.png",
+        "48": "favicons/spec-book/favicon-48x48.png",
+        "180": "favicons/spec-book/apple-touch-icon.png",
+        "192": "favicons/spec-book/android-chrome-192x192.png",
+        "512": "favicons/spec-book/android-chrome-512x512.png",
+        "ico": "favicons/spec-book/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-lifebuoy",
+      "line": "specialist",
+      "title": "Rescue",
+      "desc": "Lifebuoy. Help when a wallet is in trouble.",
+      "files": {
+        "solid": "logos/specialist/spec-lifebuoy--solid.svg",
+        "gradient": "logos/specialist/spec-lifebuoy--gradient.svg",
+        "outline": "logos/specialist/spec-lifebuoy--outline.svg",
+        "tile": "logos/specialist/spec-lifebuoy--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-lifebuoy/favicon.svg",
+        "16": "favicons/spec-lifebuoy/favicon-16x16.png",
+        "32": "favicons/spec-lifebuoy/favicon-32x32.png",
+        "48": "favicons/spec-lifebuoy/favicon-48x48.png",
+        "180": "favicons/spec-lifebuoy/apple-touch-icon.png",
+        "192": "favicons/spec-lifebuoy/android-chrome-192x192.png",
+        "512": "favicons/spec-lifebuoy/android-chrome-512x512.png",
+        "ico": "favicons/spec-lifebuoy/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-tools",
+      "line": "specialist",
+      "title": "Crossed Tools",
+      "desc": "Wrench and driver crossed. Hands-on service.",
+      "files": {
+        "solid": "logos/specialist/spec-tools--solid.svg",
+        "gradient": "logos/specialist/spec-tools--gradient.svg",
+        "outline": "logos/specialist/spec-tools--outline.svg",
+        "tile": "logos/specialist/spec-tools--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-tools/favicon.svg",
+        "16": "favicons/spec-tools/favicon-16x16.png",
+        "32": "favicons/spec-tools/favicon-32x32.png",
+        "48": "favicons/spec-tools/favicon-48x48.png",
+        "180": "favicons/spec-tools/apple-touch-icon.png",
+        "192": "favicons/spec-tools/android-chrome-192x192.png",
+        "512": "favicons/spec-tools/android-chrome-512x512.png",
+        "ico": "favicons/spec-tools/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-calendar",
+      "line": "specialist",
+      "title": "Booking",
+      "desc": "Calendar for specialist sessions.",
+      "files": {
+        "solid": "logos/specialist/spec-calendar--solid.svg",
+        "gradient": "logos/specialist/spec-calendar--gradient.svg",
+        "outline": "logos/specialist/spec-calendar--outline.svg",
+        "tile": "logos/specialist/spec-calendar--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-calendar/favicon.svg",
+        "16": "favicons/spec-calendar/favicon-16x16.png",
+        "32": "favicons/spec-calendar/favicon-32x32.png",
+        "48": "favicons/spec-calendar/favicon-48x48.png",
+        "180": "favicons/spec-calendar/apple-touch-icon.png",
+        "192": "favicons/spec-calendar/android-chrome-192x192.png",
+        "512": "favicons/spec-calendar/android-chrome-512x512.png",
+        "ico": "favicons/spec-calendar/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-people",
+      "line": "specialist",
+      "title": "Desk Pair",
+      "desc": "Two specialists. Team / desk plan mark.",
+      "files": {
+        "solid": "logos/specialist/spec-people--solid.svg",
+        "gradient": "logos/specialist/spec-people--gradient.svg",
+        "outline": "logos/specialist/spec-people--outline.svg",
+        "tile": "logos/specialist/spec-people--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-people/favicon.svg",
+        "16": "favicons/spec-people/favicon-16x16.png",
+        "32": "favicons/spec-people/favicon-32x32.png",
+        "48": "favicons/spec-people/favicon-48x48.png",
+        "180": "favicons/spec-people/apple-touch-icon.png",
+        "192": "favicons/spec-people/android-chrome-192x192.png",
+        "512": "favicons/spec-people/android-chrome-512x512.png",
+        "ico": "favicons/spec-people/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-badge",
+      "line": "specialist",
+      "title": "ID Badge",
+      "desc": "Specialist identity badge with lanyard.",
+      "files": {
+        "solid": "logos/specialist/spec-badge--solid.svg",
+        "gradient": "logos/specialist/spec-badge--gradient.svg",
+        "outline": "logos/specialist/spec-badge--outline.svg",
+        "tile": "logos/specialist/spec-badge--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-badge/favicon.svg",
+        "16": "favicons/spec-badge/favicon-16x16.png",
+        "32": "favicons/spec-badge/favicon-32x32.png",
+        "48": "favicons/spec-badge/favicon-48x48.png",
+        "180": "favicons/spec-badge/apple-touch-icon.png",
+        "192": "favicons/spec-badge/android-chrome-192x192.png",
+        "512": "favicons/spec-badge/android-chrome-512x512.png",
+        "ico": "favicons/spec-badge/favicon.ico"
+      }
+    },
+    {
+      "slug": "spec-compass",
+      "line": "specialist",
+      "title": "Guidance",
+      "desc": "Compass. Specialist-led direction.",
+      "files": {
+        "solid": "logos/specialist/spec-compass--solid.svg",
+        "gradient": "logos/specialist/spec-compass--gradient.svg",
+        "outline": "logos/specialist/spec-compass--outline.svg",
+        "tile": "logos/specialist/spec-compass--tile.svg"
+      },
+      "favicons": {
+        "svg": "favicons/spec-compass/favicon.svg",
+        "16": "favicons/spec-compass/favicon-16x16.png",
+        "32": "favicons/spec-compass/favicon-32x32.png",
+        "48": "favicons/spec-compass/favicon-48x48.png",
+        "180": "favicons/spec-compass/apple-touch-icon.png",
+        "192": "favicons/spec-compass/android-chrome-192x192.png",
+        "512": "favicons/spec-compass/android-chrome-512x512.png",
+        "ico": "favicons/spec-compass/favicon.ico"
+      }
+    }
+  ],
+  "lockups": [
+    {
+      "line": "core",
+      "theme": "light",
+      "file": "lockups/core--light.svg"
+    },
+    {
+      "line": "core",
+      "theme": "dark",
+      "file": "lockups/core--dark.svg"
+    },
+    {
+      "line": "analytics",
+      "theme": "light",
+      "file": "lockups/analytics--light.svg"
+    },
+    {
+      "line": "analytics",
+      "theme": "dark",
+      "file": "lockups/analytics--dark.svg"
+    },
+    {
+      "line": "shield",
+      "theme": "light",
+      "file": "lockups/shield--light.svg"
+    },
+    {
+      "line": "shield",
+      "theme": "dark",
+      "file": "lockups/shield--dark.svg"
+    },
+    {
+      "line": "intelligence",
+      "theme": "light",
+      "file": "lockups/intelligence--light.svg"
+    },
+    {
+      "line": "intelligence",
+      "theme": "dark",
+      "file": "lockups/intelligence--dark.svg"
+    },
+    {
+      "line": "specialist",
+      "theme": "light",
+      "file": "lockups/specialist--light.svg"
+    },
+    {
+      "line": "specialist",
+      "theme": "dark",
+      "file": "lockups/specialist--dark.svg"
+    }
+  ]
+}
